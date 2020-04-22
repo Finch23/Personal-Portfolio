@@ -5,12 +5,16 @@
     border-radius: 1%;
 }
 .page-footer {
-    margin-top: 3rem;
+    margin-top: 7rem;
 }
 .pic {
     width: 16rem;
     height: 28rem;
     border-radius: 5%;
+}
+.name {
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body {
     background-image: url('../images/cool-background.png');
